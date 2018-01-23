@@ -1,0 +1,6 @@
+*.nupkg
+*.zip
+*.exe
+rubymine.nuspec
+chocolateyInstall.ps1
+chocolateyUninstall.ps1
